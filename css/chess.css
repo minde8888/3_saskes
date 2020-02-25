@@ -14,7 +14,7 @@ body{
     margin-left: calc( (100% - 400px)/2);
     margin-top: calc( (100vh - 400px)/2);
     background-color: chartreuse;
-    border: 10px solid red;
+    
 }
     .row {
       display: inline-block;
